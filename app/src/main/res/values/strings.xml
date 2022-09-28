@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">P37S21202002SGM</string>
+    <string name="titulo">suma de dos numeros</string>
+    <string name="lnum1">ingrese el primer numero</string>
+    <string name="lnum2">ingrese el segundo numero</string>
+    <string name="label1">coloca el numero 1</string>
+    <string name="label2">coloca el numero 2</string>
+    <string name="calcular">calcular</string>
+    <string name="resultado">resultado</string>
+    <string name="txtnum1">ingrese el numero 1</string>
+    <string name="num2">ingrese numero 2</string>
+    <string name="num1">place1</string>
+    <string name="num3">ingrese numero 2</string>
+    <string name="ingrese_numero2">ingrese numero2</string>
+    <string name="ingrese_numero1">ingrese numero1</string>
+    <string name="resta">resta</string>
+    <string name="multiplicar">multiplicar</string>
+    <string name="dividir">dividir</string>
+    <string name="suma">suma</string>
+</resources>
